@@ -7,7 +7,7 @@ An [Agent Skill](https://agentskills.io/specification) that enforces an outcome-
 Clone straight into your skills directory (Codebuff / Freebuff and other clients that scan `~/.agents/skills/`):
 
 ```bash
-git clone <this-repo-url> ~/.agents/skills/goal
+git clone https://github.com/urvape/goal-skill.git ~/.agents/skills/goal
 ```
 
 Or copy the folder into any skills location your client scans:
@@ -55,4 +55,4 @@ If an Obsidian MCP server is configured (e.g. [`@bitbonsai/mcpvault`](https://ww
 
 ## License
 
-No license file yet — add one before publishing publicly.
+No license file yet — add one to make reuse terms explicit.
